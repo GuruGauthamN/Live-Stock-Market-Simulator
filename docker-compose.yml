@@ -1,0 +1,16 @@
+version: "3.9"
+services:
+  timescaledb:
+    image: timescale/timescaledb:latest-pg16
+    container_name: stock-agent-timescaledb
+    environment:
+      POSTGRES_DB: stockagent
+      POSTGRES_USER: stockuser
+      POSTGRES_PASSWORD: stockpass
+    ports:
+      - "5432:5432"
+    volumes:
+      - tsdb_data:/var/lib/postgresql/data
+
+volumes:
+  tsdb_data:

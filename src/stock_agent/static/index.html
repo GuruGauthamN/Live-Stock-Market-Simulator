@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Live Trading Desk</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Sora:wght@400;600;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/static/styles.css" />
+</head>
+<body>
+  <div class="mesh"></div>
+  <main class="shell">
+    <header class="topbar panel">
+      <div>
+        <p class="kicker">Paper Trading Desk</p>
+        <h1>Live Market + News-Aware Prediction Agent</h1>
+      </div>
+      <div class="badges">
+        <span id="health-pill" class="badge">Checking...</span>
+        <span id="model-pill" class="badge dim">Model: unknown</span>
+      </div>
+    </header>
+
+    <section class="grid-main">
+      <article class="panel chart-panel">
+        <div class="row between">
+          <div class="row">
+            <label for="symbol-select">Symbol</label>
+            <select id="symbol-select"></select>
+            <button id="refresh-symbols" class="btn ghost">Refresh Symbols</button>
+          </div>
+          <div class="row small">
+            <span>Last</span>
+            <strong id="last-price" class="mono">-</strong>
+          </div>
+        </div>
+        <div class="chart-wrap">
+          <svg id="live-chart" viewBox="0 0 1000 360" preserveAspectRatio="none"></svg>
+        </div>
+        <div class="chart-meta" id="chart-meta">Waiting for ticks...</div>
+      </article>
+
+      <article class="panel trade-panel">
+        <h2>Execution</h2>
+        <div class="signal" id="signal-card">
+          <p id="signal-action" class="signal-action">HOLD</p>
+          <p id="signal-reason" class="hint">Waiting for model signal...</p>
+          <p id="signal-meta" class="mono tiny">confidence: - | expected_return: -</p>
+        </div>
+        <div class="row">
+          <label for="trade-qty">Qty</label>
+          <input id="trade-qty" type="number" min="1" value="1" />
+        </div>
+        <div class="row">
+          <button id="btn-signal" class="btn">Get Signal</button>
+          <button id="btn-buy" class="btn buy">Buy</button>
+          <button id="btn-sell" class="btn sell">Sell</button>
+        </div>
+        <pre id="trade-log" class="log">No trades yet.</pre>
+      </article>
+    </section>
+
+    <section class="panel pnl-panel">
+      <h2>Live P/L</h2>
+      <div class="metrics">
+        <div class="metric"><span>Cash</span><strong id="p-cash" class="mono">-</strong></div>
+        <div class="metric"><span>Equity</span><strong id="p-equity" class="mono">-</strong></div>
+        <div class="metric"><span>Realized P/L</span><strong id="p-realized" class="mono">-</strong></div>
+        <div class="metric"><span>Unrealized P/L</span><strong id="p-unrealized" class="mono">-</strong></div>
+        <div class="metric"><span>Total P/L</span><strong id="p-total" class="mono">-</strong></div>
+        <div class="metric"><span>Daily P/L</span><strong id="p-daily" class="mono">-</strong></div>
+      </div>
+      <pre id="positions" class="log">{}</pre>
+    </section>
+
+    <section class="grid-main">
+      <article class="panel">
+        <h2>News + Invest Decision</h2>
+        <div class="row">
+          <label for="decision-horizon">Horizon (minutes)</label>
+          <input id="decision-horizon" type="number" min="5" value="30" />
+          <button id="btn-news" class="btn ghost">Refresh News</button>
+          <button id="btn-decision" class="btn">Generate Decision</button>
+          <button id="btn-llm-run" class="btn">Run LLM Agent</button>
+        </div>
+        <div class="metrics slim">
+          <div class="metric"><span>News Sentiment</span><strong id="n-sentiment" class="mono">-</strong></div>
+          <div class="metric"><span>Invest?</span><strong id="d-invest" class="mono">-</strong></div>
+          <div class="metric"><span>Confidence</span><strong id="d-confidence" class="mono">-</strong></div>
+          <div class="metric"><span>Expected Return</span><strong id="d-exp" class="mono">-</strong></div>
+        </div>
+        <div class="metrics slim">
+          <div class="metric"><span>LLM Enabled</span><strong id="llm-enabled" class="mono">-</strong></div>
+          <div class="metric"><span>LLM Auto</span><strong id="llm-auto" class="mono">-</strong></div>
+          <div class="metric"><span>LLM P/L</span><strong id="llm-pnl" class="mono">-</strong></div>
+          <div class="metric"><span>LLM Model</span><strong id="llm-model" class="mono">-</strong></div>
+        </div>
+        <pre id="news-log" class="log">No news loaded.</pre>
+      </article>
+
+      <article class="panel">
+        <h2>Decision Accuracy Tracker</h2>
+        <div class="row">
+          <button id="btn-performance" class="btn">Evaluate Predictions</button>
+        </div>
+        <div class="metrics slim">
+          <div class="metric"><span>Resolved</span><strong id="perf-resolved" class="mono">-</strong></div>
+          <div class="metric"><span>Accuracy</span><strong id="perf-accuracy" class="mono">-</strong></div>
+          <div class="metric"><span>Avg Return</span><strong id="perf-avgret" class="mono">-</strong></div>
+          <div class="metric"><span>Decision P/L</span><strong id="perf-pnl" class="mono">-</strong></div>
+          <div class="metric"><span>Updated</span><strong id="perf-updated" class="mono">-</strong></div>
+        </div>
+        <pre id="perf-log" class="log">No evaluation run yet.</pre>
+      </article>
+    </section>
+
+    <section class="panel">
+      <h2>Backtest Snapshot</h2>
+      <div class="row">
+        <label for="test-ratio">Test ratio</label>
+        <input id="test-ratio" type="number" min="0.05" max="0.5" step="0.05" value="0.2" />
+        <button id="btn-backtest" class="btn">Run Backtest</button>
+      </div>
+      <div class="metrics slim">
+        <div class="metric"><span>Accuracy</span><strong id="m-accuracy" class="mono">-</strong></div>
+        <div class="metric"><span>Backtest P/L</span><strong id="m-pnl" class="mono">-</strong></div>
+        <div class="metric"><span>Trades</span><strong id="m-trades" class="mono">-</strong></div>
+        <div class="metric"><span>Win/Loss</span><strong id="m-winloss" class="mono">-</strong></div>
+      </div>
+      <pre id="backtest-log" class="log">No backtest run yet.</pre>
+    </section>
+  </main>
+  <script src="/static/app.js"></script>
+</body>
+</html>

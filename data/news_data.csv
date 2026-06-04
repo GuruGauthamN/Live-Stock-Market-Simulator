@@ -1,0 +1,845 @@
+timestamp,symbol,headline,sentiment,source
+2026-04-01T17:16:29.596116,MSFT,MSFT misses revenue forecast,-0.0635,mock
+2026-04-01T17:16:49.610837,MSFT,MSFT announces strong guidance,0.8609,mock
+2026-04-01T17:17:09.593242,MSFT,MSFT reports supply chain issues,-0.0928,mock
+2026-04-01T17:17:29.603658,MSFT,MSFT misses revenue forecast,-0.9333,mock
+2026-06-04T06:48:29.038818,AAPL,AAPL launches high-demand product,0.5659,mock
+2026-06-04T06:48:49.057199,MSFT,MSFT cuts forward guidance,-0.038,mock
+2026-06-04T06:49:09.037580,MSFT,MSFT reports supply chain issues,-0.1429,mock
+2026-06-04T06:49:29.061024,GOOGL,GOOGL launches high-demand product,0.8764,mock
+2026-06-04T06:49:49.056848,GOOGL,GOOGL faces regulatory pressure,-0.0091,mock
+2026-06-04T06:50:09.057411,AAPL,AAPL announces strong guidance,0.6042,mock
+2026-06-04T06:52:42.485072,AAPL,AAPL expands strategic partnership,0.8452,mock
+2026-06-04T06:53:02.458041,GOOGL,GOOGL launches high-demand product,0.8357,mock
+2026-06-04T06:53:22.463665,GOOGL,GOOGL faces regulatory pressure,-0.3623,mock
+2026-06-04T06:53:42.471770,MSFT,MSFT cuts forward guidance,-0.6518,mock
+2026-06-04T06:54:02.488924,MSFT,MSFT cuts forward guidance,-0.4721,mock
+2026-06-04T06:54:22.512603,AAPL,AAPL reports supply chain issues,-0.7286,mock
+2026-06-04T06:54:42.492656,MSFT,MSFT cuts forward guidance,-0.1419,mock
+2026-06-04T06:55:00.339249,GOOGL,GOOGL announces strong guidance,0.711,mock
+2026-06-04T06:55:02.511027,AAPL,AAPL faces regulatory pressure,-0.1432,mock
+2026-06-04T06:55:20.341586,MSFT,MSFT beats earnings estimates,0.6251,mock
+2026-06-04T06:55:22.520391,MSFT,MSFT reports supply chain issues,-0.5954,mock
+2026-06-04T06:55:40.360276,MSFT,MSFT reports supply chain issues,-0.1617,mock
+2026-06-04T06:55:42.520239,AAPL,AAPL cuts forward guidance,-0.4121,mock
+2026-06-04T06:56:00.373654,MSFT,MSFT beats earnings estimates,0.0891,mock
+2026-06-04T06:56:02.541752,MSFT,MSFT misses revenue forecast,-0.0292,mock
+2026-06-04T06:56:20.378765,AAPL,AAPL expands strategic partnership,0.4985,mock
+2026-06-04T06:56:22.544689,GOOGL,GOOGL expands strategic partnership,0.7091,mock
+2026-06-04T06:56:40.392369,MSFT,MSFT announces strong guidance,0.9457,mock
+2026-06-04T06:56:42.536418,GOOGL,GOOGL beats earnings estimates,0.0719,mock
+2026-06-04T06:57:00.407656,MSFT,MSFT reports supply chain issues,-0.2332,mock
+2026-06-04T06:57:02.552893,AAPL,AAPL announces strong guidance,0.6962,mock
+2026-06-04T06:57:20.431686,GOOGL,GOOGL beats earnings estimates,0.4125,mock
+2026-06-04T06:57:22.544008,GOOGL,GOOGL launches high-demand product,0.427,mock
+2026-06-04T06:57:40.450094,AAPL,AAPL beats earnings estimates,0.5557,mock
+2026-06-04T06:57:42.547398,GOOGL,GOOGL expands strategic partnership,0.1938,mock
+2026-06-04T06:58:00.448500,AAPL,AAPL expands strategic partnership,0.4689,mock
+2026-06-04T06:58:02.560355,AAPL,AAPL misses revenue forecast,-0.3506,mock
+2026-06-04T06:58:20.464799,AAPL,AAPL misses revenue forecast,-0.9208,mock
+2026-06-04T06:58:22.568551,GOOGL,GOOGL reports supply chain issues,-0.3797,mock
+2026-06-04T06:58:40.476731,AAPL,AAPL faces regulatory pressure,-0.1001,mock
+2026-06-04T06:58:42.571993,AAPL,AAPL beats earnings estimates,0.3185,mock
+2026-06-04T06:59:00.501124,AAPL,AAPL reports supply chain issues,-0.6629,mock
+2026-06-04T06:59:02.592256,MSFT,MSFT faces regulatory pressure,-0.9466,mock
+2026-06-04T06:59:20.522552,AAPL,AAPL faces regulatory pressure,-0.2513,mock
+2026-06-04T06:59:22.596419,MSFT,MSFT cuts forward guidance,-0.2344,mock
+2026-06-04T06:59:40.538290,GOOGL,GOOGL beats earnings estimates,0.4763,mock
+2026-06-04T06:59:42.595657,AAPL,AAPL expands strategic partnership,0.3006,mock
+2026-06-04T07:00:00.555167,GOOGL,GOOGL misses revenue forecast,-0.4626,mock
+2026-06-04T07:00:02.596431,GOOGL,GOOGL faces regulatory pressure,-0.2407,mock
+2026-06-04T07:00:20.573022,MSFT,MSFT reports supply chain issues,-0.8066,mock
+2026-06-04T07:00:22.608353,AAPL,AAPL announces strong guidance,0.9169,mock
+2026-06-04T07:00:40.572744,GOOGL,GOOGL expands strategic partnership,0.7671,mock
+2026-06-04T07:00:42.616908,MSFT,MSFT beats earnings estimates,0.147,mock
+2026-06-04T07:01:00.576984,GOOGL,GOOGL expands strategic partnership,0.7603,mock
+2026-06-04T07:01:02.633273,MSFT,MSFT faces regulatory pressure,-0.4814,mock
+2026-06-04T07:01:20.585218,AAPL,AAPL faces regulatory pressure,-0.4942,mock
+2026-06-04T07:01:22.649487,GOOGL,GOOGL beats earnings estimates,0.3144,mock
+2026-06-04T07:01:40.603137,AAPL,AAPL faces regulatory pressure,-0.2169,mock
+2026-06-04T07:02:00.623338,GOOGL,GOOGL misses revenue forecast,-0.3223,mock
+2026-06-04T07:02:20.631779,GOOGL,GOOGL misses revenue forecast,-0.738,mock
+2026-06-04T07:02:40.616065,MSFT,MSFT misses revenue forecast,-0.3303,mock
+2026-06-04T07:03:00.631786,AAPL,AAPL beats earnings estimates,0.1943,mock
+2026-06-04T07:03:20.632447,AAPL,AAPL cuts forward guidance,-0.5082,mock
+2026-06-04T07:03:40.649339,MSFT,MSFT announces strong guidance,0.148,mock
+2026-06-04T07:04:00.663402,MSFT,MSFT announces strong guidance,0.6721,mock
+2026-06-04T07:04:20.680911,GOOGL,GOOGL faces regulatory pressure,-0.9985,mock
+2026-06-04T07:04:40.670638,GOOGL,GOOGL beats earnings estimates,0.0019,mock
+2026-06-04T07:05:00.677195,GOOGL,GOOGL beats earnings estimates,0.5859,mock
+2026-06-04T07:05:20.700603,GOOGL,GOOGL launches high-demand product,0.2606,mock
+2026-06-04T07:05:40.719847,AAPL,AAPL launches high-demand product,0.7876,mock
+2026-06-04T07:06:00.732037,AAPL,AAPL cuts forward guidance,-0.0523,mock
+2026-06-04T07:06:20.729433,GOOGL,GOOGL cuts forward guidance,-0.0906,mock
+2026-06-04T07:06:40.739147,GOOGL,GOOGL cuts forward guidance,-0.4218,mock
+2026-06-04T07:07:00.768234,MSFT,MSFT cuts forward guidance,-0.1621,mock
+2026-06-04T07:07:20.787451,MSFT,MSFT reports supply chain issues,-0.0209,mock
+2026-06-04T07:07:40.801307,MSFT,MSFT beats earnings estimates,0.4628,mock
+2026-06-04T07:08:00.823780,MSFT,MSFT cuts forward guidance,-0.6522,mock
+2026-06-04T07:08:20.826101,GOOGL,GOOGL expands strategic partnership,0.2133,mock
+2026-06-04T07:08:40.832722,GOOGL,GOOGL launches high-demand product,0.3116,mock
+2026-06-04T07:09:00.834238,GOOGL,GOOGL launches high-demand product,0.6507,mock
+2026-06-04T07:09:20.860163,GOOGL,GOOGL expands strategic partnership,0.7463,mock
+2026-06-04T07:09:40.841614,MSFT,MSFT misses revenue forecast,-0.9695,mock
+2026-06-04T07:10:00.848825,GOOGL,GOOGL faces regulatory pressure,-0.1234,mock
+2026-06-04T07:10:20.857170,GOOGL,GOOGL launches high-demand product,0.4015,mock
+2026-06-04T07:10:40.863808,MSFT,MSFT faces regulatory pressure,-0.6664,mock
+2026-06-04T07:11:00.865144,AAPL,AAPL launches high-demand product,0.503,mock
+2026-06-04T07:11:20.869846,AAPL,AAPL expands strategic partnership,0.6593,mock
+2026-06-04T07:11:40.880206,MSFT,MSFT misses revenue forecast,-0.6866,mock
+2026-06-04T07:12:00.898119,AAPL,AAPL announces strong guidance,0.6829,mock
+2026-06-04T07:12:20.924378,GOOGL,GOOGL reports supply chain issues,-0.0553,mock
+2026-06-04T07:12:39.969499,GOOGL,GOOGL faces regulatory pressure,-0.0608,mock
+2026-06-04T07:12:40.922607,GOOGL,GOOGL cuts forward guidance,-0.5876,mock
+2026-06-04T07:12:59.962084,AAPL,AAPL expands strategic partnership,0.0758,mock
+2026-06-04T07:13:00.934563,MSFT,MSFT beats earnings estimates,0.0818,mock
+2026-06-04T07:13:19.964562,AAPL,AAPL faces regulatory pressure,-0.8634,mock
+2026-06-04T07:13:20.915252,GOOGL,GOOGL launches high-demand product,0.6421,mock
+2026-06-04T07:13:39.980553,AAPL,AAPL beats earnings estimates,0.4575,mock
+2026-06-04T07:13:40.928933,MSFT,MSFT beats earnings estimates,0.3475,mock
+2026-06-04T07:13:59.996031,AAPL,AAPL launches high-demand product,0.2132,mock
+2026-06-04T07:14:00.948278,MSFT,MSFT faces regulatory pressure,-0.8343,mock
+2026-06-04T07:14:20.010881,MSFT,MSFT beats earnings estimates,0.3845,mock
+2026-06-04T07:14:20.955001,GOOGL,GOOGL expands strategic partnership,0.0439,mock
+2026-06-04T07:14:40.020079,MSFT,MSFT reports supply chain issues,-0.8743,mock
+2026-06-04T07:14:40.961288,MSFT,MSFT launches high-demand product,0.6455,mock
+2026-06-04T07:15:00.028616,MSFT,MSFT reports supply chain issues,-0.7602,mock
+2026-06-04T07:15:00.978008,GOOGL,GOOGL launches high-demand product,0.9083,mock
+2026-06-04T07:15:20.020125,AAPL,AAPL misses revenue forecast,-0.0317,mock
+2026-06-04T07:15:20.973887,GOOGL,GOOGL cuts forward guidance,-0.3015,mock
+2026-06-04T07:15:40.030772,AAPL,AAPL reports supply chain issues,-0.0278,mock
+2026-06-04T07:15:41.001173,GOOGL,GOOGL beats earnings estimates,0.6394,mock
+2026-06-04T07:16:00.047389,MSFT,MSFT announces strong guidance,0.9756,mock
+2026-06-04T07:16:01.009482,MSFT,MSFT launches high-demand product,0.2617,mock
+2026-06-04T07:16:20.048588,AAPL,AAPL beats earnings estimates,0.5812,mock
+2026-06-04T07:16:21.008425,GOOGL,GOOGL reports supply chain issues,-0.5117,mock
+2026-06-04T07:16:40.037960,GOOGL,GOOGL misses revenue forecast,-0.0345,mock
+2026-06-04T07:16:41.017787,MSFT,MSFT faces regulatory pressure,-0.6484,mock
+2026-06-04T07:17:00.061624,AAPL,AAPL expands strategic partnership,0.6589,mock
+2026-06-04T07:17:01.022802,GOOGL,GOOGL expands strategic partnership,0.1767,mock
+2026-06-04T07:17:20.078306,GOOGL,GOOGL cuts forward guidance,-0.491,mock
+2026-06-04T07:17:21.031444,MSFT,MSFT cuts forward guidance,-0.2672,mock
+2026-06-04T07:17:40.087868,MSFT,MSFT reports supply chain issues,-0.6081,mock
+2026-06-04T07:17:41.023655,GOOGL,GOOGL misses revenue forecast,-0.0613,mock
+2026-06-04T07:18:00.107243,MSFT,MSFT beats earnings estimates,0.9554,mock
+2026-06-04T07:18:01.026037,GOOGL,GOOGL expands strategic partnership,0.1337,mock
+2026-06-04T07:18:20.111110,AAPL,AAPL misses revenue forecast,-0.4141,mock
+2026-06-04T07:18:21.047251,MSFT,MSFT reports supply chain issues,-0.5602,mock
+2026-06-04T07:18:40.137081,MSFT,MSFT faces regulatory pressure,-0.1569,mock
+2026-06-04T07:18:41.067366,MSFT,MSFT reports supply chain issues,-0.5473,mock
+2026-06-04T07:19:00.156408,MSFT,MSFT beats earnings estimates,0.512,mock
+2026-06-04T07:19:01.076979,MSFT,MSFT beats earnings estimates,0.7361,mock
+2026-06-04T07:19:20.158445,GOOGL,GOOGL expands strategic partnership,0.7383,mock
+2026-06-04T07:19:21.086742,MSFT,MSFT faces regulatory pressure,-0.2602,mock
+2026-06-04T07:19:40.178999,MSFT,MSFT faces regulatory pressure,-0.1147,mock
+2026-06-04T07:19:41.095947,AAPL,AAPL beats earnings estimates,0.5003,mock
+2026-06-04T07:20:00.177059,GOOGL,GOOGL reports supply chain issues,-0.3549,mock
+2026-06-04T07:20:01.114216,AAPL,AAPL expands strategic partnership,0.7934,mock
+2026-06-04T07:20:20.195429,GOOGL,GOOGL launches high-demand product,0.813,mock
+2026-06-04T07:20:21.131242,AAPL,AAPL faces regulatory pressure,-0.3277,mock
+2026-06-04T07:20:40.208857,GOOGL,GOOGL expands strategic partnership,0.7969,mock
+2026-06-04T07:20:41.148313,AAPL,AAPL announces strong guidance,0.481,mock
+2026-06-04T07:21:00.221919,GOOGL,GOOGL launches high-demand product,0.9413,mock
+2026-06-04T07:21:01.161701,GOOGL,GOOGL expands strategic partnership,0.8826,mock
+2026-06-04T07:21:20.248200,MSFT,MSFT faces regulatory pressure,-0.8458,mock
+2026-06-04T07:21:21.186137,MSFT,MSFT faces regulatory pressure,-0.078,mock
+2026-06-04T07:21:40.257436,AAPL,AAPL announces strong guidance,0.473,mock
+2026-06-04T07:21:41.177430,AAPL,AAPL launches high-demand product,0.6605,mock
+2026-06-04T07:22:00.259605,AAPL,AAPL faces regulatory pressure,-0.5107,mock
+2026-06-04T07:22:01.187604,GOOGL,GOOGL cuts forward guidance,-0.6133,mock
+2026-06-04T07:22:20.252311,AAPL,AAPL misses revenue forecast,-0.6907,mock
+2026-06-04T07:22:21.192240,AAPL,AAPL faces regulatory pressure,-0.2017,mock
+2026-06-04T07:22:40.268931,GOOGL,GOOGL cuts forward guidance,-0.0345,mock
+2026-06-04T07:22:41.210085,MSFT,MSFT announces strong guidance,0.9905,mock
+2026-06-04T07:23:00.299976,AAPL,AAPL reports supply chain issues,-0.6065,mock
+2026-06-04T07:23:01.235851,GOOGL,GOOGL faces regulatory pressure,-0.5101,mock
+2026-06-04T07:23:20.307912,AAPL,AAPL beats earnings estimates,0.9097,mock
+2026-06-04T07:23:21.242186,MSFT,MSFT announces strong guidance,0.7543,mock
+2026-06-04T07:23:40.321397,AAPL,AAPL beats earnings estimates,0.4906,mock
+2026-06-04T07:23:41.257420,AAPL,AAPL cuts forward guidance,-0.3275,mock
+2026-06-04T07:24:00.331840,AAPL,AAPL expands strategic partnership,0.4598,mock
+2026-06-04T07:24:01.267497,GOOGL,GOOGL misses revenue forecast,-0.5748,mock
+2026-06-04T07:24:20.343804,AAPL,AAPL launches high-demand product,0.6683,mock
+2026-06-04T07:24:21.277311,MSFT,MSFT announces strong guidance,0.2968,mock
+2026-06-04T07:24:40.359308,MSFT,MSFT reports supply chain issues,-0.9551,mock
+2026-06-04T07:24:41.274608,MSFT,MSFT launches high-demand product,0.8897,mock
+2026-06-04T07:25:00.359571,MSFT,MSFT faces regulatory pressure,-0.8475,mock
+2026-06-04T07:25:01.270592,GOOGL,GOOGL launches high-demand product,0.4146,mock
+2026-06-04T07:25:20.360503,GOOGL,GOOGL reports supply chain issues,-0.8067,mock
+2026-06-04T07:25:21.279772,AAPL,AAPL launches high-demand product,0.219,mock
+2026-06-04T07:25:40.376521,MSFT,MSFT beats earnings estimates,0.8558,mock
+2026-06-04T07:25:41.295808,GOOGL,GOOGL misses revenue forecast,-0.41,mock
+2026-06-04T07:26:00.392569,AAPL,AAPL faces regulatory pressure,-0.1402,mock
+2026-06-04T07:26:01.298436,GOOGL,GOOGL reports supply chain issues,-0.4872,mock
+2026-06-04T07:26:20.407304,GOOGL,GOOGL cuts forward guidance,-0.8672,mock
+2026-06-04T07:26:21.300597,GOOGL,GOOGL beats earnings estimates,0.8088,mock
+2026-06-04T07:26:40.408428,AAPL,AAPL cuts forward guidance,-0.5411,mock
+2026-06-04T07:26:41.318085,GOOGL,GOOGL expands strategic partnership,0.8656,mock
+2026-06-04T07:27:00.435173,MSFT,MSFT expands strategic partnership,0.582,mock
+2026-06-04T07:27:01.345148,AAPL,AAPL cuts forward guidance,-0.3274,mock
+2026-06-04T07:27:20.444342,AAPL,AAPL cuts forward guidance,-0.2924,mock
+2026-06-04T07:27:21.346501,GOOGL,GOOGL beats earnings estimates,0.2264,mock
+2026-06-04T07:27:40.452838,MSFT,MSFT cuts forward guidance,-0.3425,mock
+2026-06-04T07:27:41.374593,MSFT,MSFT announces strong guidance,0.1667,mock
+2026-06-04T07:27:50.716958,GOOGL,GOOGL faces regulatory pressure,-0.888,mock
+2026-06-04T07:28:01.363621,AAPL,AAPL cuts forward guidance,-0.612,mock
+2026-06-04T07:28:10.717271,MSFT,MSFT expands strategic partnership,0.1406,mock
+2026-06-04T07:28:21.387752,MSFT,MSFT faces regulatory pressure,-0.6798,mock
+2026-06-04T07:28:30.721414,MSFT,MSFT cuts forward guidance,-0.4889,mock
+2026-06-04T07:28:41.400770,MSFT,MSFT reports supply chain issues,-0.8255,mock
+2026-06-04T07:28:51.184344,GOOGL,GOOGL cuts forward guidance,-0.4057,mock
+2026-06-04T07:29:01.399606,MSFT,MSFT expands strategic partnership,0.3064,mock
+2026-06-04T07:29:11.203289,AAPL,AAPL faces regulatory pressure,-0.7875,mock
+2026-06-04T07:29:21.400670,MSFT,MSFT cuts forward guidance,-0.6863,mock
+2026-06-04T07:29:29.026666,GOOGL,GOOGL cuts forward guidance,-0.3644,mock
+2026-06-04T07:29:41.399847,MSFT,MSFT announces strong guidance,0.4777,mock
+2026-06-04T07:29:49.046679,AAPL,AAPL reports supply chain issues,-0.2161,mock
+2026-06-04T07:30:01.401132,MSFT,MSFT misses revenue forecast,-0.7262,mock
+2026-06-04T07:30:09.049769,MSFT,MSFT misses revenue forecast,-0.4499,mock
+2026-06-04T07:30:21.413795,MSFT,MSFT expands strategic partnership,0.2713,mock
+2026-06-04T07:30:29.069090,MSFT,MSFT beats earnings estimates,0.3034,mock
+2026-06-04T07:30:41.416533,MSFT,MSFT reports supply chain issues,-0.9104,mock
+2026-06-04T07:30:49.087435,AAPL,AAPL reports supply chain issues,-0.39,mock
+2026-06-04T07:31:01.431133,AAPL,AAPL announces strong guidance,0.7802,mock
+2026-06-04T07:31:09.088532,GOOGL,GOOGL launches high-demand product,0.8819,mock
+2026-06-04T07:31:21.445463,AAPL,AAPL launches high-demand product,0.3901,mock
+2026-06-04T07:31:29.088654,MSFT,MSFT reports supply chain issues,-0.9062,mock
+2026-06-04T07:31:41.446746,MSFT,MSFT faces regulatory pressure,-0.5383,mock
+2026-06-04T07:31:49.110901,GOOGL,GOOGL cuts forward guidance,-0.8348,mock
+2026-06-04T07:32:01.448239,MSFT,MSFT expands strategic partnership,0.8717,mock
+2026-06-04T07:32:09.117179,MSFT,MSFT misses revenue forecast,-0.5478,mock
+2026-06-04T07:32:21.468410,GOOGL,GOOGL launches high-demand product,0.3782,mock
+2026-06-04T07:32:29.122190,GOOGL,GOOGL reports supply chain issues,-0.9025,mock
+2026-06-04T07:32:41.464220,MSFT,MSFT cuts forward guidance,-0.9011,mock
+2026-06-04T07:32:49.121600,AAPL,AAPL expands strategic partnership,0.2796,mock
+2026-06-04T07:33:01.468226,MSFT,MSFT reports supply chain issues,-0.2509,mock
+2026-06-04T07:33:09.123149,MSFT,MSFT expands strategic partnership,0.7972,mock
+2026-06-04T07:33:21.476604,AAPL,AAPL announces strong guidance,0.92,mock
+2026-06-04T07:33:29.141522,MSFT,MSFT launches high-demand product,0.2322,mock
+2026-06-04T07:33:41.490371,MSFT,MSFT faces regulatory pressure,-0.1798,mock
+2026-06-04T07:33:49.133988,GOOGL,GOOGL misses revenue forecast,-0.3771,mock
+2026-06-04T07:34:01.507836,MSFT,MSFT expands strategic partnership,0.2083,mock
+2026-06-04T07:34:09.148470,GOOGL,GOOGL misses revenue forecast,-0.5015,mock
+2026-06-04T07:34:21.514089,AAPL,AAPL cuts forward guidance,-0.6684,mock
+2026-06-04T07:34:29.163328,MSFT,MSFT beats earnings estimates,0.9022,mock
+2026-06-04T07:34:41.529214,AAPL,AAPL beats earnings estimates,0.6257,mock
+2026-06-04T07:34:49.184340,MSFT,MSFT misses revenue forecast,-0.226,mock
+2026-06-04T07:35:01.545430,AAPL,AAPL misses revenue forecast,-0.1399,mock
+2026-06-04T07:35:09.204226,MSFT,MSFT misses revenue forecast,-0.2472,mock
+2026-06-04T07:35:21.540501,GOOGL,GOOGL announces strong guidance,0.7061,mock
+2026-06-04T07:35:29.230691,AAPL,AAPL beats earnings estimates,0.0932,mock
+2026-06-04T07:35:41.541790,MSFT,MSFT launches high-demand product,0.1837,mock
+2026-06-04T07:35:49.242481,GOOGL,GOOGL expands strategic partnership,0.7257,mock
+2026-06-04T07:36:01.548142,AAPL,AAPL launches high-demand product,0.1558,mock
+2026-06-04T07:36:09.257384,AAPL,AAPL launches high-demand product,0.1944,mock
+2026-06-04T07:36:21.558426,AAPL,AAPL announces strong guidance,0.8984,mock
+2026-06-04T07:36:29.273567,MSFT,MSFT launches high-demand product,0.4203,mock
+2026-06-04T07:36:41.574993,MSFT,MSFT misses revenue forecast,-0.7843,mock
+2026-06-04T07:36:49.285022,AAPL,AAPL cuts forward guidance,-0.3232,mock
+2026-06-04T07:37:01.582577,AAPL,AAPL cuts forward guidance,-0.521,mock
+2026-06-04T07:37:09.306976,AAPL,AAPL beats earnings estimates,0.6413,mock
+2026-06-04T07:37:21.604312,GOOGL,GOOGL launches high-demand product,0.3017,mock
+2026-06-04T07:37:29.318651,GOOGL,GOOGL misses revenue forecast,-0.2558,mock
+2026-06-04T07:37:41.619107,MSFT,MSFT beats earnings estimates,0.3527,mock
+2026-06-04T07:37:49.323187,MSFT,MSFT launches high-demand product,0.2252,mock
+2026-06-04T07:38:01.636026,AAPL,AAPL expands strategic partnership,0.1959,mock
+2026-06-04T07:38:09.321175,AAPL,AAPL beats earnings estimates,0.0072,mock
+2026-06-04T07:38:21.646599,GOOGL,GOOGL reports supply chain issues,-0.9028,mock
+2026-06-04T07:38:29.323594,GOOGL,GOOGL announces strong guidance,0.7895,mock
+2026-06-04T07:38:41.668194,GOOGL,GOOGL beats earnings estimates,0.4019,mock
+2026-06-04T07:38:49.321085,AAPL,AAPL beats earnings estimates,0.3454,mock
+2026-06-04T07:39:01.678848,GOOGL,GOOGL faces regulatory pressure,-0.5332,mock
+2026-06-04T07:39:09.341155,MSFT,MSFT announces strong guidance,0.6067,mock
+2026-06-04T07:39:21.699936,AAPL,AAPL misses revenue forecast,-0.7463,mock
+2026-06-04T07:39:29.358834,MSFT,MSFT beats earnings estimates,0.4466,mock
+2026-06-04T07:39:41.693656,AAPL,AAPL faces regulatory pressure,-0.4872,mock
+2026-06-04T07:39:49.356920,MSFT,MSFT faces regulatory pressure,-0.6893,mock
+2026-06-04T07:40:01.718725,AAPL,AAPL beats earnings estimates,0.318,mock
+2026-06-04T07:40:09.359576,GOOGL,GOOGL reports supply chain issues,-0.3348,mock
+2026-06-04T07:40:21.727981,GOOGL,GOOGL announces strong guidance,0.4809,mock
+2026-06-04T07:40:29.365597,GOOGL,GOOGL cuts forward guidance,-0.8735,mock
+2026-06-04T07:40:41.732378,AAPL,AAPL reports supply chain issues,-0.9636,mock
+2026-06-04T07:40:49.380037,MSFT,MSFT cuts forward guidance,-0.7004,mock
+2026-06-04T07:41:01.748896,GOOGL,GOOGL expands strategic partnership,0.212,mock
+2026-06-04T07:41:09.396589,MSFT,MSFT cuts forward guidance,-0.2328,mock
+2026-06-04T07:41:21.760681,MSFT,MSFT beats earnings estimates,0.9165,mock
+2026-06-04T07:41:29.409084,GOOGL,GOOGL expands strategic partnership,0.6731,mock
+2026-06-04T07:41:41.759149,MSFT,MSFT misses revenue forecast,-0.6081,mock
+2026-06-04T07:41:49.438544,MSFT,MSFT misses revenue forecast,-0.6328,mock
+2026-06-04T07:42:01.776667,MSFT,MSFT misses revenue forecast,-0.5372,mock
+2026-06-04T07:42:09.431602,MSFT,MSFT expands strategic partnership,0.4447,mock
+2026-06-04T07:42:21.795455,MSFT,MSFT expands strategic partnership,0.1095,mock
+2026-06-04T07:42:29.448973,MSFT,MSFT reports supply chain issues,-0.2821,mock
+2026-06-04T07:42:41.801096,GOOGL,GOOGL expands strategic partnership,0.6122,mock
+2026-06-04T07:42:49.447300,AAPL,AAPL misses revenue forecast,-0.1687,mock
+2026-06-04T07:43:01.822258,GOOGL,GOOGL faces regulatory pressure,-0.6596,mock
+2026-06-04T07:43:09.466303,MSFT,MSFT misses revenue forecast,-0.7203,mock
+2026-06-04T07:43:21.842503,AAPL,AAPL announces strong guidance,0.368,mock
+2026-06-04T07:43:29.476230,MSFT,MSFT faces regulatory pressure,-0.8355,mock
+2026-06-04T07:43:41.858433,MSFT,MSFT reports supply chain issues,-0.987,mock
+2026-06-04T07:43:49.489832,MSFT,MSFT launches high-demand product,0.7781,mock
+2026-06-04T07:44:01.870749,MSFT,MSFT faces regulatory pressure,-0.8922,mock
+2026-06-04T07:44:09.504856,MSFT,MSFT announces strong guidance,0.7155,mock
+2026-06-04T07:44:21.886450,MSFT,MSFT expands strategic partnership,0.8856,mock
+2026-06-04T07:44:29.522280,MSFT,MSFT faces regulatory pressure,-0.0288,mock
+2026-06-04T07:44:41.882516,GOOGL,GOOGL announces strong guidance,0.2745,mock
+2026-06-04T07:44:49.537557,AAPL,AAPL reports supply chain issues,-0.7579,mock
+2026-06-04T07:45:01.872405,AAPL,AAPL expands strategic partnership,0.272,mock
+2026-06-04T07:45:09.539586,MSFT,MSFT announces strong guidance,0.0841,mock
+2026-06-04T07:45:21.882048,AAPL,AAPL reports supply chain issues,-0.1054,mock
+2026-06-04T07:45:29.547341,AAPL,AAPL expands strategic partnership,0.9568,mock
+2026-06-04T07:45:41.893794,GOOGL,GOOGL faces regulatory pressure,-0.9424,mock
+2026-06-04T07:45:49.560711,AAPL,AAPL faces regulatory pressure,-0.0666,mock
+2026-06-04T07:46:01.913813,GOOGL,GOOGL launches high-demand product,0.113,mock
+2026-06-04T07:46:09.568758,AAPL,AAPL beats earnings estimates,0.6965,mock
+2026-06-04T07:46:21.932167,MSFT,MSFT announces strong guidance,0.3582,mock
+2026-06-04T07:46:29.571114,GOOGL,GOOGL announces strong guidance,0.349,mock
+2026-06-04T07:46:41.932619,GOOGL,GOOGL misses revenue forecast,-0.4985,mock
+2026-06-04T07:46:49.590763,AAPL,AAPL misses revenue forecast,-0.5418,mock
+2026-06-04T07:47:01.931646,AAPL,AAPL reports supply chain issues,-0.6053,mock
+2026-06-04T07:47:09.590589,GOOGL,GOOGL expands strategic partnership,0.5847,mock
+2026-06-04T07:47:21.939798,AAPL,AAPL announces strong guidance,0.7778,mock
+2026-06-04T07:47:29.587360,AAPL,AAPL reports supply chain issues,-0.5066,mock
+2026-06-04T07:47:41.959367,GOOGL,GOOGL reports supply chain issues,-0.7959,mock
+2026-06-04T07:47:49.601509,AAPL,AAPL cuts forward guidance,-0.7149,mock
+2026-06-04T07:48:01.983332,AAPL,AAPL reports supply chain issues,-0.3688,mock
+2026-06-04T07:48:09.611333,AAPL,AAPL reports supply chain issues,-0.4218,mock
+2026-06-04T07:48:21.993578,MSFT,MSFT announces strong guidance,0.3105,mock
+2026-06-04T07:48:29.623268,MSFT,MSFT expands strategic partnership,0.3685,mock
+2026-06-04T07:48:42.005436,GOOGL,GOOGL announces strong guidance,0.4032,mock
+2026-06-04T07:48:49.640168,GOOGL,GOOGL misses revenue forecast,-0.078,mock
+2026-06-04T07:49:02.017322,GOOGL,GOOGL misses revenue forecast,-0.178,mock
+2026-06-04T07:49:09.644369,MSFT,MSFT beats earnings estimates,0.2064,mock
+2026-06-04T07:49:22.028694,GOOGL,GOOGL faces regulatory pressure,-0.3012,mock
+2026-06-04T07:49:29.663770,MSFT,MSFT expands strategic partnership,0.9161,mock
+2026-06-04T07:49:42.033564,GOOGL,GOOGL misses revenue forecast,-0.7437,mock
+2026-06-04T07:49:49.686324,MSFT,MSFT reports supply chain issues,-0.4697,mock
+2026-06-04T07:50:02.044365,MSFT,MSFT launches high-demand product,0.0226,mock
+2026-06-04T07:50:09.681251,GOOGL,GOOGL beats earnings estimates,0.7102,mock
+2026-06-04T07:50:22.053422,GOOGL,GOOGL faces regulatory pressure,-0.7017,mock
+2026-06-04T07:50:29.692268,AAPL,AAPL launches high-demand product,0.8584,mock
+2026-06-04T07:50:42.079017,GOOGL,GOOGL reports supply chain issues,-0.9454,mock
+2026-06-04T07:50:49.710344,GOOGL,GOOGL beats earnings estimates,0.3553,mock
+2026-06-04T07:51:02.085988,AAPL,AAPL announces strong guidance,0.4527,mock
+2026-06-04T07:51:09.717324,AAPL,AAPL launches high-demand product,0.7179,mock
+2026-06-04T07:51:22.100255,AAPL,AAPL reports supply chain issues,-0.6474,mock
+2026-06-04T07:51:29.735076,GOOGL,GOOGL misses revenue forecast,-0.3454,mock
+2026-06-04T07:51:42.117456,GOOGL,GOOGL beats earnings estimates,0.9191,mock
+2026-06-04T07:51:49.728241,MSFT,MSFT announces strong guidance,0.3142,mock
+2026-06-04T07:52:02.134023,GOOGL,GOOGL expands strategic partnership,0.3224,mock
+2026-06-04T07:52:09.736077,MSFT,MSFT announces strong guidance,0.2204,mock
+2026-06-04T07:52:22.152291,GOOGL,GOOGL faces regulatory pressure,-0.1299,mock
+2026-06-04T07:52:29.735484,MSFT,MSFT reports supply chain issues,-0.6633,mock
+2026-06-04T07:52:42.168668,MSFT,MSFT reports supply chain issues,-0.324,mock
+2026-06-04T07:52:49.735873,MSFT,MSFT beats earnings estimates,0.5705,mock
+2026-06-04T07:53:02.183738,GOOGL,GOOGL beats earnings estimates,0.8207,mock
+2026-06-04T07:53:09.735280,GOOGL,GOOGL expands strategic partnership,0.3539,mock
+2026-06-04T07:53:22.168571,AAPL,AAPL launches high-demand product,0.751,mock
+2026-06-04T07:53:29.714017,MSFT,MSFT faces regulatory pressure,-0.5752,mock
+2026-06-04T07:53:42.185076,GOOGL,GOOGL beats earnings estimates,0.1835,mock
+2026-06-04T07:53:49.731442,AAPL,AAPL launches high-demand product,0.6957,mock
+2026-06-04T07:54:02.169348,AAPL,AAPL misses revenue forecast,-0.6732,mock
+2026-06-04T07:54:09.738096,MSFT,MSFT announces strong guidance,0.0695,mock
+2026-06-04T07:54:22.184406,GOOGL,GOOGL cuts forward guidance,-0.7831,mock
+2026-06-04T07:54:29.737023,GOOGL,GOOGL cuts forward guidance,-0.8839,mock
+2026-06-04T07:54:42.199699,MSFT,MSFT launches high-demand product,0.8333,mock
+2026-06-04T07:54:49.766528,AAPL,AAPL expands strategic partnership,0.8489,mock
+2026-06-04T07:55:02.192522,MSFT,MSFT faces regulatory pressure,-0.3111,mock
+2026-06-04T07:55:09.755039,AAPL,AAPL cuts forward guidance,-0.04,mock
+2026-06-04T07:55:22.192361,MSFT,MSFT announces strong guidance,0.371,mock
+2026-06-04T07:55:29.763381,GOOGL,GOOGL cuts forward guidance,-0.6708,mock
+2026-06-04T07:55:42.208531,GOOGL,GOOGL misses revenue forecast,-0.6033,mock
+2026-06-04T07:55:49.753499,MSFT,MSFT expands strategic partnership,0.8745,mock
+2026-06-04T07:56:02.208280,AAPL,AAPL launches high-demand product,0.5949,mock
+2026-06-04T07:56:09.764232,GOOGL,GOOGL launches high-demand product,0.8984,mock
+2026-06-04T07:56:22.208077,GOOGL,GOOGL announces strong guidance,0.6375,mock
+2026-06-04T07:56:29.741346,AAPL,AAPL expands strategic partnership,0.1554,mock
+2026-06-04T07:56:42.228399,GOOGL,GOOGL faces regulatory pressure,-0.3815,mock
+2026-06-04T07:56:49.754927,MSFT,MSFT expands strategic partnership,0.5112,mock
+2026-06-04T07:57:02.243360,MSFT,MSFT misses revenue forecast,-0.5333,mock
+2026-06-04T07:57:09.753753,MSFT,MSFT announces strong guidance,0.8025,mock
+2026-06-04T07:57:22.240358,AAPL,AAPL launches high-demand product,0.6257,mock
+2026-06-04T07:57:29.778296,MSFT,MSFT beats earnings estimates,0.1783,mock
+2026-06-04T07:57:42.251556,GOOGL,GOOGL launches high-demand product,0.8063,mock
+2026-06-04T07:57:49.794212,AAPL,AAPL faces regulatory pressure,-0.9587,mock
+2026-06-04T07:58:02.267326,GOOGL,GOOGL announces strong guidance,0.5638,mock
+2026-06-04T07:58:09.792768,AAPL,AAPL expands strategic partnership,0.9975,mock
+2026-06-04T07:58:22.243145,GOOGL,GOOGL beats earnings estimates,0.9127,mock
+2026-06-04T07:58:29.811607,GOOGL,GOOGL announces strong guidance,0.936,mock
+2026-06-04T07:58:42.262114,MSFT,MSFT announces strong guidance,0.9066,mock
+2026-06-04T07:58:49.820491,MSFT,MSFT launches high-demand product,0.7627,mock
+2026-06-04T07:59:02.264219,AAPL,AAPL reports supply chain issues,-0.3221,mock
+2026-06-04T07:59:09.840634,AAPL,AAPL misses revenue forecast,-0.6167,mock
+2026-06-04T07:59:22.280051,GOOGL,GOOGL announces strong guidance,0.3772,mock
+2026-06-04T07:59:29.853024,AAPL,AAPL launches high-demand product,0.4902,mock
+2026-06-04T07:59:42.290565,GOOGL,GOOGL misses revenue forecast,-0.2669,mock
+2026-06-04T07:59:49.863244,MSFT,MSFT beats earnings estimates,0.6991,mock
+2026-06-04T08:00:02.303637,AAPL,AAPL beats earnings estimates,0.9744,mock
+2026-06-04T08:00:09.881260,GOOGL,GOOGL beats earnings estimates,0.9057,mock
+2026-06-04T08:00:22.292022,AAPL,AAPL beats earnings estimates,0.883,mock
+2026-06-04T08:00:29.902795,AAPL,AAPL expands strategic partnership,0.1528,mock
+2026-06-04T08:00:42.311184,AAPL,AAPL launches high-demand product,0.4939,mock
+2026-06-04T08:00:49.909574,GOOGL,GOOGL announces strong guidance,0.4895,mock
+2026-06-04T08:01:02.305464,AAPL,AAPL faces regulatory pressure,-0.8115,mock
+2026-06-04T08:01:09.922692,AAPL,AAPL announces strong guidance,0.9914,mock
+2026-06-04T08:01:22.308572,AAPL,AAPL cuts forward guidance,-0.8894,mock
+2026-06-04T08:01:29.926465,GOOGL,GOOGL reports supply chain issues,-0.1686,mock
+2026-06-04T08:01:42.295439,AAPL,AAPL reports supply chain issues,-0.4121,mock
+2026-06-04T08:01:49.937382,MSFT,MSFT launches high-demand product,0.7923,mock
+2026-06-04T08:02:02.313191,AAPL,AAPL cuts forward guidance,-0.3753,mock
+2026-06-04T08:02:09.926856,AAPL,AAPL misses revenue forecast,-0.4314,mock
+2026-06-04T08:02:22.324673,MSFT,MSFT reports supply chain issues,-0.1777,mock
+2026-06-04T08:02:29.950272,GOOGL,GOOGL misses revenue forecast,-0.0812,mock
+2026-06-04T08:02:42.324766,GOOGL,GOOGL reports supply chain issues,-0.1395,mock
+2026-06-04T08:02:49.962774,MSFT,MSFT beats earnings estimates,0.7442,mock
+2026-06-04T08:03:02.324982,AAPL,AAPL announces strong guidance,0.294,mock
+2026-06-04T08:03:09.965965,GOOGL,GOOGL beats earnings estimates,0.1033,mock
+2026-06-04T08:03:22.344537,GOOGL,GOOGL announces strong guidance,0.7338,mock
+2026-06-04T08:03:29.983600,AAPL,AAPL faces regulatory pressure,-0.6572,mock
+2026-06-04T08:03:42.337104,MSFT,MSFT expands strategic partnership,0.7127,mock
+2026-06-04T08:03:49.964866,GOOGL,GOOGL expands strategic partnership,0.7203,mock
+2026-06-04T08:04:02.361568,AAPL,AAPL expands strategic partnership,0.9924,mock
+2026-06-04T08:04:09.961949,AAPL,AAPL launches high-demand product,0.7326,mock
+2026-06-04T08:04:22.364081,MSFT,MSFT launches high-demand product,0.8775,mock
+2026-06-04T08:04:29.978094,AAPL,AAPL beats earnings estimates,0.8677,mock
+2026-06-04T08:04:42.391148,AAPL,AAPL beats earnings estimates,0.4874,mock
+2026-06-04T08:04:49.957819,MSFT,MSFT cuts forward guidance,-0.7408,mock
+2026-06-04T08:05:02.392698,MSFT,MSFT expands strategic partnership,0.9547,mock
+2026-06-04T08:05:09.973586,GOOGL,GOOGL reports supply chain issues,-0.8417,mock
+2026-06-04T08:05:22.421813,MSFT,MSFT announces strong guidance,0.0929,mock
+2026-06-04T08:05:29.965804,MSFT,MSFT misses revenue forecast,-0.2822,mock
+2026-06-04T08:05:42.426629,MSFT,MSFT reports supply chain issues,-0.4356,mock
+2026-06-04T08:05:49.984342,AAPL,AAPL reports supply chain issues,-0.3338,mock
+2026-06-04T08:06:02.448876,AAPL,AAPL announces strong guidance,0.0815,mock
+2026-06-04T08:06:09.997621,MSFT,MSFT launches high-demand product,0.1047,mock
+2026-06-04T08:06:22.443131,MSFT,MSFT expands strategic partnership,0.9925,mock
+2026-06-04T08:06:29.994087,AAPL,AAPL faces regulatory pressure,-0.9824,mock
+2026-06-04T08:06:42.457014,GOOGL,GOOGL expands strategic partnership,0.1244,mock
+2026-06-04T08:06:50.008266,GOOGL,GOOGL announces strong guidance,0.5847,mock
+2026-06-04T08:07:02.448272,AAPL,AAPL faces regulatory pressure,-0.0933,mock
+2026-06-04T08:07:09.994473,AAPL,AAPL launches high-demand product,0.5008,mock
+2026-06-04T08:07:22.467977,GOOGL,GOOGL launches high-demand product,0.1443,mock
+2026-06-04T08:07:30.015203,MSFT,MSFT cuts forward guidance,-0.3879,mock
+2026-06-04T08:07:42.485382,MSFT,MSFT cuts forward guidance,-0.6865,mock
+2026-06-04T08:07:50.013811,AAPL,AAPL announces strong guidance,0.9701,mock
+2026-06-04T08:08:02.496608,AAPL,AAPL reports supply chain issues,-0.9491,mock
+2026-06-04T08:08:10.014506,AAPL,AAPL reports supply chain issues,-0.3315,mock
+2026-06-04T08:08:22.512642,MSFT,MSFT expands strategic partnership,0.8323,mock
+2026-06-04T08:08:30.026068,AAPL,AAPL reports supply chain issues,-0.4937,mock
+2026-06-04T08:08:42.526380,AAPL,AAPL beats earnings estimates,0.5443,mock
+2026-06-04T08:08:50.030360,GOOGL,GOOGL launches high-demand product,0.0652,mock
+2026-06-04T08:09:02.530231,GOOGL,GOOGL expands strategic partnership,0.7694,mock
+2026-06-04T08:09:10.032132,GOOGL,GOOGL beats earnings estimates,0.1273,mock
+2026-06-04T08:09:22.526457,AAPL,AAPL misses revenue forecast,-0.4205,mock
+2026-06-04T08:09:30.038871,AAPL,AAPL faces regulatory pressure,-0.4651,mock
+2026-06-04T08:09:42.538053,GOOGL,GOOGL cuts forward guidance,-0.5451,mock
+2026-06-04T08:09:50.064233,MSFT,MSFT announces strong guidance,0.9163,mock
+2026-06-04T08:10:02.556142,GOOGL,GOOGL reports supply chain issues,-0.0323,mock
+2026-06-04T08:10:10.086347,GOOGL,GOOGL beats earnings estimates,0.2114,mock
+2026-06-04T08:10:22.566350,GOOGL,GOOGL misses revenue forecast,-0.3503,mock
+2026-06-04T08:10:30.103413,AAPL,AAPL cuts forward guidance,-0.7423,mock
+2026-06-04T08:10:42.583625,AAPL,AAPL announces strong guidance,0.0429,mock
+2026-06-04T08:10:50.097031,GOOGL,GOOGL cuts forward guidance,-0.8282,mock
+2026-06-04T08:11:02.604838,MSFT,MSFT faces regulatory pressure,-0.9611,mock
+2026-06-04T08:11:10.082678,AAPL,AAPL misses revenue forecast,-0.8676,mock
+2026-06-04T08:11:22.604735,MSFT,MSFT beats earnings estimates,0.0466,mock
+2026-06-04T08:11:30.108297,AAPL,AAPL expands strategic partnership,0.8146,mock
+2026-06-04T08:11:42.590854,AAPL,AAPL misses revenue forecast,-0.9743,mock
+2026-06-04T08:11:50.112111,GOOGL,GOOGL misses revenue forecast,-0.535,mock
+2026-06-04T08:12:02.592561,GOOGL,GOOGL beats earnings estimates,0.2594,mock
+2026-06-04T08:12:10.132472,MSFT,MSFT misses revenue forecast,-0.8723,mock
+2026-06-04T08:12:22.591115,AAPL,AAPL expands strategic partnership,0.9394,mock
+2026-06-04T08:12:30.145016,GOOGL,GOOGL beats earnings estimates,0.2809,mock
+2026-06-04T08:12:42.595613,MSFT,MSFT cuts forward guidance,-0.4989,mock
+2026-06-04T08:12:50.176089,MSFT,MSFT announces strong guidance,0.1421,mock
+2026-06-04T08:13:02.597411,MSFT,MSFT reports supply chain issues,-0.1424,mock
+2026-06-04T08:13:10.193344,GOOGL,GOOGL reports supply chain issues,-0.2228,mock
+2026-06-04T08:13:22.623884,AAPL,AAPL misses revenue forecast,-0.8938,mock
+2026-06-04T08:13:30.197515,MSFT,MSFT misses revenue forecast,-0.0729,mock
+2026-06-04T08:13:42.623422,MSFT,MSFT misses revenue forecast,-0.7599,mock
+2026-06-04T08:13:50.207860,GOOGL,GOOGL faces regulatory pressure,-0.6531,mock
+2026-06-04T08:14:02.635897,GOOGL,GOOGL cuts forward guidance,-0.5309,mock
+2026-06-04T08:14:10.232580,AAPL,AAPL reports supply chain issues,-0.8328,mock
+2026-06-04T08:14:22.650732,AAPL,AAPL announces strong guidance,0.2329,mock
+2026-06-04T08:14:30.245280,MSFT,MSFT launches high-demand product,0.0331,mock
+2026-06-04T08:14:42.667854,MSFT,MSFT reports supply chain issues,-0.0636,mock
+2026-06-04T08:14:50.254140,MSFT,MSFT misses revenue forecast,-0.9335,mock
+2026-06-04T08:15:02.689089,AAPL,AAPL cuts forward guidance,-0.7995,mock
+2026-06-04T08:15:10.270681,AAPL,AAPL announces strong guidance,0.8379,mock
+2026-06-04T08:15:22.692900,GOOGL,GOOGL faces regulatory pressure,-0.4632,mock
+2026-06-04T08:15:30.270733,GOOGL,GOOGL cuts forward guidance,-0.9436,mock
+2026-06-04T08:15:42.705667,GOOGL,GOOGL reports supply chain issues,-0.9964,mock
+2026-06-04T08:15:50.286503,MSFT,MSFT cuts forward guidance,-0.619,mock
+2026-06-04T08:16:02.717140,MSFT,MSFT launches high-demand product,0.0195,mock
+2026-06-04T08:16:10.303311,GOOGL,GOOGL beats earnings estimates,0.8795,mock
+2026-06-04T08:16:22.732803,AAPL,AAPL launches high-demand product,0.4637,mock
+2026-06-04T08:16:30.317155,MSFT,MSFT launches high-demand product,0.3412,mock
+2026-06-04T08:16:42.744442,GOOGL,GOOGL misses revenue forecast,-0.3074,mock
+2026-06-04T08:16:50.321750,MSFT,MSFT announces strong guidance,0.877,mock
+2026-06-04T08:17:02.763670,AAPL,AAPL expands strategic partnership,0.3655,mock
+2026-06-04T08:17:10.334963,MSFT,MSFT announces strong guidance,0.5699,mock
+2026-06-04T08:17:22.752532,GOOGL,GOOGL cuts forward guidance,-0.4749,mock
+2026-06-04T08:17:30.354441,MSFT,MSFT reports supply chain issues,-0.9691,mock
+2026-06-04T08:17:42.770269,AAPL,AAPL expands strategic partnership,0.3478,mock
+2026-06-04T08:17:50.353821,MSFT,MSFT faces regulatory pressure,-0.7914,mock
+2026-06-04T08:18:02.793189,GOOGL,GOOGL reports supply chain issues,-0.7631,mock
+2026-06-04T08:18:10.340119,AAPL,AAPL cuts forward guidance,-0.5329,mock
+2026-06-04T08:18:22.790965,GOOGL,GOOGL faces regulatory pressure,-0.7374,mock
+2026-06-04T08:18:30.336877,GOOGL,GOOGL announces strong guidance,0.4681,mock
+2026-06-04T08:18:42.802532,AAPL,AAPL faces regulatory pressure,-0.2954,mock
+2026-06-04T08:18:50.352797,AAPL,AAPL misses revenue forecast,-0.8165,mock
+2026-06-04T08:19:02.785649,MSFT,MSFT beats earnings estimates,0.8758,mock
+2026-06-04T08:19:10.368024,MSFT,MSFT announces strong guidance,0.3198,mock
+2026-06-04T08:19:22.812734,AAPL,AAPL beats earnings estimates,0.7872,mock
+2026-06-04T08:19:30.386094,GOOGL,GOOGL announces strong guidance,0.0972,mock
+2026-06-04T08:19:42.832902,GOOGL,GOOGL beats earnings estimates,0.2948,mock
+2026-06-04T08:19:50.386714,MSFT,MSFT faces regulatory pressure,-0.6427,mock
+2026-06-04T08:20:02.836371,MSFT,MSFT cuts forward guidance,-0.0441,mock
+2026-06-04T08:20:10.387343,AAPL,AAPL launches high-demand product,0.6372,mock
+2026-06-04T08:20:22.859678,AAPL,AAPL launches high-demand product,0.6553,mock
+2026-06-04T08:20:30.387207,MSFT,MSFT cuts forward guidance,-0.2708,mock
+2026-06-04T08:20:42.865966,GOOGL,GOOGL reports supply chain issues,-0.9883,mock
+2026-06-04T08:20:50.395752,GOOGL,GOOGL misses revenue forecast,-0.4441,mock
+2026-06-04T08:21:02.879120,AAPL,AAPL misses revenue forecast,-0.9283,mock
+2026-06-04T08:21:10.417104,MSFT,MSFT faces regulatory pressure,-0.128,mock
+2026-06-04T08:21:22.887919,GOOGL,GOOGL announces strong guidance,0.7735,mock
+2026-06-04T08:21:30.420788,AAPL,AAPL expands strategic partnership,0.9433,mock
+2026-06-04T08:21:42.901863,MSFT,MSFT beats earnings estimates,0.6359,mock
+2026-06-04T08:21:50.432035,GOOGL,GOOGL beats earnings estimates,0.7589,mock
+2026-06-04T08:22:02.902490,GOOGL,GOOGL cuts forward guidance,-0.0954,mock
+2026-06-04T08:22:10.437692,GOOGL,GOOGL reports supply chain issues,-0.242,mock
+2026-06-04T08:22:22.903659,AAPL,AAPL faces regulatory pressure,-0.2973,mock
+2026-06-04T08:22:30.415158,GOOGL,GOOGL reports supply chain issues,-0.7307,mock
+2026-06-04T08:22:42.914260,AAPL,AAPL launches high-demand product,0.0331,mock
+2026-06-04T08:22:50.427855,MSFT,MSFT expands strategic partnership,0.4485,mock
+2026-06-04T08:23:02.936710,AAPL,AAPL reports supply chain issues,-0.1601,mock
+2026-06-04T08:23:10.451064,MSFT,MSFT beats earnings estimates,0.2624,mock
+2026-06-04T08:23:22.939549,AAPL,AAPL faces regulatory pressure,-0.8402,mock
+2026-06-04T08:23:30.468109,AAPL,AAPL reports supply chain issues,-0.856,mock
+2026-06-04T08:23:42.952366,AAPL,AAPL reports supply chain issues,-0.0336,mock
+2026-06-04T08:23:50.476668,GOOGL,GOOGL faces regulatory pressure,-0.0825,mock
+2026-06-04T08:24:02.945420,AAPL,AAPL announces strong guidance,0.5945,mock
+2026-06-04T08:24:10.486735,GOOGL,GOOGL launches high-demand product,0.7913,mock
+2026-06-04T08:24:22.950624,AAPL,AAPL cuts forward guidance,-0.9667,mock
+2026-06-04T08:24:30.485879,GOOGL,GOOGL misses revenue forecast,-0.7847,mock
+2026-06-04T08:24:42.954674,MSFT,MSFT cuts forward guidance,-0.7231,mock
+2026-06-04T08:24:50.485150,GOOGL,GOOGL beats earnings estimates,0.2422,mock
+2026-06-04T08:25:02.959573,AAPL,AAPL announces strong guidance,0.7949,mock
+2026-06-04T08:25:10.482631,GOOGL,GOOGL reports supply chain issues,-0.5514,mock
+2026-06-04T08:25:22.982288,AAPL,AAPL reports supply chain issues,-0.6247,mock
+2026-06-04T08:25:30.488482,AAPL,AAPL misses revenue forecast,-0.1555,mock
+2026-06-04T08:25:42.984000,MSFT,MSFT cuts forward guidance,-0.8591,mock
+2026-06-04T08:25:50.511552,MSFT,MSFT misses revenue forecast,-0.475,mock
+2026-06-04T08:26:02.988007,AAPL,AAPL beats earnings estimates,0.0947,mock
+2026-06-04T08:26:10.499852,MSFT,MSFT misses revenue forecast,-0.4121,mock
+2026-06-04T08:26:22.967526,GOOGL,GOOGL reports supply chain issues,-0.6767,mock
+2026-06-04T08:26:30.512884,MSFT,MSFT launches high-demand product,0.7969,mock
+2026-06-04T08:26:42.983523,AAPL,AAPL faces regulatory pressure,-0.8501,mock
+2026-06-04T08:26:50.527198,AAPL,AAPL cuts forward guidance,-0.4995,mock
+2026-06-04T08:27:02.982345,AAPL,AAPL cuts forward guidance,-0.7442,mock
+2026-06-04T08:27:10.532298,GOOGL,GOOGL launches high-demand product,0.7069,mock
+2026-06-04T08:27:22.984797,AAPL,AAPL cuts forward guidance,-0.6798,mock
+2026-06-04T08:27:30.535297,AAPL,AAPL faces regulatory pressure,-0.4071,mock
+2026-06-04T08:27:42.972387,AAPL,AAPL expands strategic partnership,0.9362,mock
+2026-06-04T08:27:50.560564,GOOGL,GOOGL misses revenue forecast,-0.9824,mock
+2026-06-04T08:28:02.984529,AAPL,AAPL cuts forward guidance,-0.6122,mock
+2026-06-04T08:28:10.573780,MSFT,MSFT misses revenue forecast,-0.1028,mock
+2026-06-04T08:28:22.988994,GOOGL,GOOGL misses revenue forecast,-0.373,mock
+2026-06-04T08:28:30.583484,GOOGL,GOOGL launches high-demand product,0.5733,mock
+2026-06-04T08:28:43.013915,MSFT,MSFT cuts forward guidance,-0.2337,mock
+2026-06-04T08:28:50.602321,GOOGL,GOOGL misses revenue forecast,-0.3521,mock
+2026-06-04T08:29:03.026929,MSFT,MSFT expands strategic partnership,0.9271,mock
+2026-06-04T08:29:10.622345,AAPL,AAPL beats earnings estimates,0.8554,mock
+2026-06-04T08:29:23.037476,AAPL,AAPL cuts forward guidance,-0.6185,mock
+2026-06-04T08:29:30.626191,AAPL,AAPL beats earnings estimates,0.6833,mock
+2026-06-04T08:29:43.050078,GOOGL,GOOGL announces strong guidance,0.1518,mock
+2026-06-04T08:29:50.659185,MSFT,MSFT misses revenue forecast,-0.6141,mock
+2026-06-04T08:30:03.065200,MSFT,MSFT expands strategic partnership,0.7749,mock
+2026-06-04T08:30:10.663944,GOOGL,GOOGL reports supply chain issues,-0.6992,mock
+2026-06-04T08:30:23.041869,GOOGL,GOOGL misses revenue forecast,-0.7235,mock
+2026-06-04T08:30:30.667363,GOOGL,GOOGL expands strategic partnership,0.6807,mock
+2026-06-04T08:30:43.056385,GOOGL,GOOGL cuts forward guidance,-0.6416,mock
+2026-06-04T08:30:50.687810,MSFT,MSFT faces regulatory pressure,-0.2402,mock
+2026-06-04T08:31:03.065740,AAPL,AAPL announces strong guidance,0.0062,mock
+2026-06-04T08:31:10.679762,GOOGL,GOOGL expands strategic partnership,0.6541,mock
+2026-06-04T08:31:23.083468,MSFT,MSFT faces regulatory pressure,-0.5162,mock
+2026-06-04T08:31:30.661811,GOOGL,GOOGL announces strong guidance,0.725,mock
+2026-06-04T08:31:43.102402,GOOGL,GOOGL launches high-demand product,0.6759,mock
+2026-06-04T08:31:50.685610,AAPL,AAPL misses revenue forecast,-0.298,mock
+2026-06-04T08:32:03.098265,GOOGL,GOOGL misses revenue forecast,-0.3789,mock
+2026-06-04T08:32:10.691072,GOOGL,GOOGL reports supply chain issues,-0.1565,mock
+2026-06-04T08:32:23.122759,MSFT,MSFT beats earnings estimates,0.0188,mock
+2026-06-04T08:32:30.697702,MSFT,MSFT cuts forward guidance,-0.4483,mock
+2026-06-04T08:32:43.137995,MSFT,MSFT cuts forward guidance,-0.0873,mock
+2026-06-04T08:32:50.714708,MSFT,MSFT beats earnings estimates,0.0351,mock
+2026-06-04T08:33:03.114892,AAPL,AAPL announces strong guidance,0.116,mock
+2026-06-04T08:33:10.729583,GOOGL,GOOGL launches high-demand product,0.4992,mock
+2026-06-04T08:33:23.115431,AAPL,AAPL launches high-demand product,0.1475,mock
+2026-06-04T08:33:30.742950,AAPL,AAPL beats earnings estimates,0.9671,mock
+2026-06-04T08:33:43.142846,GOOGL,GOOGL announces strong guidance,0.8537,mock
+2026-06-04T08:33:50.757171,GOOGL,GOOGL cuts forward guidance,-0.1063,mock
+2026-06-04T08:34:03.148053,AAPL,AAPL beats earnings estimates,0.5891,mock
+2026-06-04T08:34:10.741110,GOOGL,GOOGL misses revenue forecast,-0.8822,mock
+2026-06-04T08:34:23.152142,MSFT,MSFT faces regulatory pressure,-0.738,mock
+2026-06-04T08:34:30.762854,AAPL,AAPL beats earnings estimates,0.8467,mock
+2026-06-04T08:34:43.173385,GOOGL,GOOGL beats earnings estimates,0.6772,mock
+2026-06-04T08:34:50.762402,AAPL,AAPL reports supply chain issues,-0.7565,mock
+2026-06-04T08:35:03.166000,MSFT,MSFT faces regulatory pressure,-0.7826,mock
+2026-06-04T08:35:10.780587,AAPL,AAPL reports supply chain issues,-0.4904,mock
+2026-06-04T08:35:23.165364,AAPL,AAPL reports supply chain issues,-0.7448,mock
+2026-06-04T08:35:30.787327,MSFT,MSFT cuts forward guidance,-0.9202,mock
+2026-06-04T08:35:43.167787,MSFT,MSFT expands strategic partnership,0.752,mock
+2026-06-04T08:35:50.790946,GOOGL,GOOGL announces strong guidance,0.7092,mock
+2026-06-04T08:36:03.189595,GOOGL,GOOGL cuts forward guidance,-0.3488,mock
+2026-06-04T08:36:10.801775,GOOGL,GOOGL announces strong guidance,0.174,mock
+2026-06-04T08:36:23.195937,MSFT,MSFT announces strong guidance,0.7215,mock
+2026-06-04T08:36:30.815511,AAPL,AAPL misses revenue forecast,-0.9524,mock
+2026-06-04T08:36:43.219438,GOOGL,GOOGL expands strategic partnership,0.5836,mock
+2026-06-04T08:36:50.820786,MSFT,MSFT launches high-demand product,0.3446,mock
+2026-06-04T08:37:03.219208,GOOGL,GOOGL expands strategic partnership,0.0526,mock
+2026-06-04T08:37:10.831841,MSFT,MSFT reports supply chain issues,-0.9759,mock
+2026-06-04T08:37:23.215144,MSFT,MSFT cuts forward guidance,-0.4622,mock
+2026-06-04T08:37:30.833392,MSFT,MSFT launches high-demand product,0.3423,mock
+2026-06-04T08:37:43.214821,GOOGL,GOOGL faces regulatory pressure,-0.9916,mock
+2026-06-04T08:37:50.859390,GOOGL,GOOGL misses revenue forecast,-0.2258,mock
+2026-06-04T08:38:03.222649,MSFT,MSFT cuts forward guidance,-0.0332,mock
+2026-06-04T08:38:10.875448,AAPL,AAPL beats earnings estimates,0.0352,mock
+2026-06-04T08:38:23.228601,MSFT,MSFT reports supply chain issues,-0.024,mock
+2026-06-04T08:38:30.874566,AAPL,AAPL misses revenue forecast,-0.0245,mock
+2026-06-04T08:38:43.232135,MSFT,MSFT launches high-demand product,0.1422,mock
+2026-06-04T08:38:50.881435,GOOGL,GOOGL expands strategic partnership,0.0507,mock
+2026-06-04T08:39:03.242972,GOOGL,GOOGL misses revenue forecast,-0.2424,mock
+2026-06-04T08:39:10.883645,MSFT,MSFT misses revenue forecast,-0.9086,mock
+2026-06-04T08:39:23.255338,AAPL,AAPL faces regulatory pressure,-0.6675,mock
+2026-06-04T08:39:30.898469,MSFT,MSFT faces regulatory pressure,-0.8491,mock
+2026-06-04T08:39:43.271895,MSFT,MSFT faces regulatory pressure,-0.8877,mock
+2026-06-04T08:39:50.912613,MSFT,MSFT announces strong guidance,0.8093,mock
+2026-06-04T08:40:03.298438,MSFT,MSFT misses revenue forecast,-0.4118,mock
+2026-06-04T08:40:10.935311,GOOGL,GOOGL announces strong guidance,0.0943,mock
+2026-06-04T08:40:23.287644,GOOGL,GOOGL reports supply chain issues,-0.8476,mock
+2026-06-04T08:40:30.940742,GOOGL,GOOGL announces strong guidance,0.4501,mock
+2026-06-04T08:40:43.300738,GOOGL,GOOGL launches high-demand product,0.3341,mock
+2026-06-04T08:40:50.947017,GOOGL,GOOGL launches high-demand product,0.5842,mock
+2026-06-04T08:41:03.288891,AAPL,AAPL cuts forward guidance,-0.778,mock
+2026-06-04T08:41:10.964115,GOOGL,GOOGL launches high-demand product,0.8577,mock
+2026-06-04T08:41:23.312631,AAPL,AAPL launches high-demand product,0.7935,mock
+2026-06-04T08:41:30.978585,AAPL,AAPL misses revenue forecast,-0.9331,mock
+2026-06-04T08:41:43.319585,MSFT,MSFT faces regulatory pressure,-0.6251,mock
+2026-06-04T08:41:50.986526,MSFT,MSFT expands strategic partnership,0.8345,mock
+2026-06-04T08:42:03.334909,MSFT,MSFT expands strategic partnership,0.3557,mock
+2026-06-04T08:42:10.996432,GOOGL,GOOGL expands strategic partnership,0.233,mock
+2026-06-04T08:42:23.357294,GOOGL,GOOGL announces strong guidance,0.5014,mock
+2026-06-04T08:42:31.012824,MSFT,MSFT expands strategic partnership,0.0168,mock
+2026-06-04T08:42:43.372326,AAPL,AAPL announces strong guidance,0.1028,mock
+2026-06-04T08:42:51.001397,GOOGL,GOOGL reports supply chain issues,-0.9176,mock
+2026-06-04T08:43:03.370362,GOOGL,GOOGL cuts forward guidance,-0.814,mock
+2026-06-04T08:43:11.007908,AAPL,AAPL cuts forward guidance,-0.9475,mock
+2026-06-04T08:43:23.369896,MSFT,MSFT launches high-demand product,0.6225,mock
+2026-06-04T08:43:31.024371,MSFT,MSFT reports supply chain issues,-0.2054,mock
+2026-06-04T08:43:43.386106,AAPL,AAPL misses revenue forecast,-0.3502,mock
+2026-06-04T08:43:51.040735,GOOGL,GOOGL beats earnings estimates,0.4187,mock
+2026-06-04T08:44:03.392374,MSFT,MSFT expands strategic partnership,0.4395,mock
+2026-06-04T08:44:11.058859,GOOGL,GOOGL cuts forward guidance,-0.6784,mock
+2026-06-04T08:44:23.385647,AAPL,AAPL misses revenue forecast,-0.4665,mock
+2026-06-04T08:44:31.078217,GOOGL,GOOGL launches high-demand product,0.2327,mock
+2026-06-04T08:44:43.387751,AAPL,AAPL reports supply chain issues,-0.73,mock
+2026-06-04T08:44:51.081435,GOOGL,GOOGL announces strong guidance,0.6892,mock
+2026-06-04T08:45:03.407388,AAPL,AAPL launches high-demand product,0.9163,mock
+2026-06-04T08:45:11.109278,AAPL,AAPL expands strategic partnership,0.7136,mock
+2026-06-04T08:45:23.422280,GOOGL,GOOGL faces regulatory pressure,-0.8068,mock
+2026-06-04T08:45:31.118975,MSFT,MSFT reports supply chain issues,-0.2292,mock
+2026-06-04T08:45:43.431964,AAPL,AAPL faces regulatory pressure,-0.041,mock
+2026-06-04T08:45:51.134798,GOOGL,GOOGL misses revenue forecast,-0.4838,mock
+2026-06-04T08:46:03.444730,AAPL,AAPL misses revenue forecast,-0.5868,mock
+2026-06-04T08:46:11.156263,GOOGL,GOOGL launches high-demand product,0.4771,mock
+2026-06-04T08:46:23.470430,AAPL,AAPL misses revenue forecast,-0.4041,mock
+2026-06-04T08:46:31.161450,AAPL,AAPL cuts forward guidance,-0.4399,mock
+2026-06-04T08:46:43.478269,MSFT,MSFT announces strong guidance,0.8155,mock
+2026-06-04T08:46:51.177265,AAPL,AAPL launches high-demand product,0.28,mock
+2026-06-04T08:47:03.471973,MSFT,MSFT misses revenue forecast,-0.3821,mock
+2026-06-04T08:47:11.189455,GOOGL,GOOGL cuts forward guidance,-0.8626,mock
+2026-06-04T08:47:23.491628,MSFT,MSFT beats earnings estimates,0.9296,mock
+2026-06-04T08:47:31.190382,MSFT,MSFT misses revenue forecast,-0.5117,mock
+2026-06-04T08:47:43.503072,AAPL,AAPL beats earnings estimates,0.1871,mock
+2026-06-04T08:47:51.209300,GOOGL,GOOGL misses revenue forecast,-0.0477,mock
+2026-06-04T08:48:03.500727,AAPL,AAPL beats earnings estimates,0.3062,mock
+2026-06-04T08:48:11.212745,AAPL,AAPL announces strong guidance,0.9722,mock
+2026-06-04T08:48:23.503296,GOOGL,GOOGL expands strategic partnership,0.9186,mock
+2026-06-04T08:48:31.223228,AAPL,AAPL faces regulatory pressure,-0.4558,mock
+2026-06-04T08:48:43.502242,AAPL,AAPL reports supply chain issues,-0.0175,mock
+2026-06-04T08:48:51.223049,MSFT,MSFT beats earnings estimates,0.7093,mock
+2026-06-04T08:49:03.512671,GOOGL,GOOGL announces strong guidance,0.3738,mock
+2026-06-04T08:49:11.242504,MSFT,MSFT cuts forward guidance,-0.6347,mock
+2026-06-04T08:49:23.488593,GOOGL,GOOGL beats earnings estimates,0.6591,mock
+2026-06-04T08:49:31.267120,GOOGL,GOOGL announces strong guidance,0.6381,mock
+2026-06-04T08:49:43.517209,GOOGL,GOOGL faces regulatory pressure,-0.0856,mock
+2026-06-04T08:49:51.263397,AAPL,AAPL reports supply chain issues,-0.3184,mock
+2026-06-04T08:50:03.522446,GOOGL,GOOGL expands strategic partnership,0.0013,mock
+2026-06-04T08:50:11.262159,MSFT,MSFT faces regulatory pressure,-0.5881,mock
+2026-06-04T08:50:23.527233,AAPL,AAPL announces strong guidance,0.8482,mock
+2026-06-04T08:50:31.259041,MSFT,MSFT misses revenue forecast,-0.0272,mock
+2026-06-04T08:50:43.534096,GOOGL,GOOGL launches high-demand product,0.7168,mock
+2026-06-04T08:50:51.279383,GOOGL,GOOGL faces regulatory pressure,-0.7473,mock
+2026-06-04T08:51:03.543078,MSFT,MSFT expands strategic partnership,0.4774,mock
+2026-06-04T08:51:11.287817,MSFT,MSFT launches high-demand product,0.709,mock
+2026-06-04T08:51:23.561681,MSFT,MSFT announces strong guidance,0.8566,mock
+2026-06-04T08:51:31.302964,AAPL,AAPL faces regulatory pressure,-0.7051,mock
+2026-06-04T08:51:43.581300,AAPL,AAPL reports supply chain issues,-0.8204,mock
+2026-06-04T08:51:51.295697,AAPL,AAPL beats earnings estimates,0.1989,mock
+2026-06-04T08:52:03.593572,MSFT,MSFT beats earnings estimates,0.6037,mock
+2026-06-04T08:52:11.305621,AAPL,AAPL faces regulatory pressure,-0.4414,mock
+2026-06-04T08:52:23.604569,AAPL,AAPL misses revenue forecast,-0.1218,mock
+2026-06-04T08:52:31.310918,AAPL,AAPL expands strategic partnership,0.2289,mock
+2026-06-04T08:52:43.626983,GOOGL,GOOGL announces strong guidance,0.0424,mock
+2026-06-04T08:52:51.313690,GOOGL,GOOGL reports supply chain issues,-0.5169,mock
+2026-06-04T08:53:03.631850,GOOGL,GOOGL launches high-demand product,0.0233,mock
+2026-06-04T08:53:11.323661,AAPL,AAPL beats earnings estimates,0.6317,mock
+2026-06-04T08:53:23.658140,GOOGL,GOOGL announces strong guidance,0.3178,mock
+2026-06-04T08:53:31.329338,AAPL,AAPL faces regulatory pressure,-0.8918,mock
+2026-06-04T08:53:43.661974,GOOGL,GOOGL launches high-demand product,0.2749,mock
+2026-06-04T08:53:51.335616,GOOGL,GOOGL reports supply chain issues,-0.6105,mock
+2026-06-04T08:54:03.666916,GOOGL,GOOGL reports supply chain issues,-0.087,mock
+2026-06-04T08:54:11.347195,MSFT,MSFT faces regulatory pressure,-0.2564,mock
+2026-06-04T08:54:23.680696,AAPL,AAPL cuts forward guidance,-0.6287,mock
+2026-06-04T08:54:31.344600,MSFT,MSFT announces strong guidance,0.759,mock
+2026-06-04T08:54:43.698689,MSFT,MSFT misses revenue forecast,-0.9041,mock
+2026-06-04T08:54:51.351623,AAPL,AAPL reports supply chain issues,-0.6153,mock
+2026-06-04T08:55:03.700660,MSFT,MSFT launches high-demand product,0.6158,mock
+2026-06-04T08:55:11.363574,AAPL,AAPL faces regulatory pressure,-0.0142,mock
+2026-06-04T08:55:23.700623,AAPL,AAPL reports supply chain issues,-0.7616,mock
+2026-06-04T08:55:31.364414,AAPL,AAPL announces strong guidance,0.2258,mock
+2026-06-04T08:55:43.713827,MSFT,MSFT expands strategic partnership,0.4727,mock
+2026-06-04T08:55:51.380156,GOOGL,GOOGL cuts forward guidance,-0.1443,mock
+2026-06-04T08:56:03.729470,AAPL,AAPL launches high-demand product,0.8197,mock
+2026-06-04T08:56:11.396805,MSFT,MSFT announces strong guidance,0.3409,mock
+2026-06-04T08:56:23.747285,MSFT,MSFT beats earnings estimates,0.3274,mock
+2026-06-04T08:56:31.407690,MSFT,MSFT announces strong guidance,0.6407,mock
+2026-06-04T08:56:43.765734,GOOGL,GOOGL misses revenue forecast,-0.836,mock
+2026-06-04T08:56:51.412607,AAPL,AAPL beats earnings estimates,0.321,mock
+2026-06-04T08:57:03.774445,MSFT,MSFT faces regulatory pressure,-0.5707,mock
+2026-06-04T08:57:11.415315,GOOGL,GOOGL expands strategic partnership,0.1436,mock
+2026-06-04T08:57:23.783168,GOOGL,GOOGL reports supply chain issues,-0.4346,mock
+2026-06-04T08:57:31.413191,GOOGL,GOOGL reports supply chain issues,-0.1839,mock
+2026-06-04T08:57:43.794215,AAPL,AAPL launches high-demand product,0.8899,mock
+2026-06-04T08:57:51.414984,AAPL,AAPL beats earnings estimates,0.7139,mock
+2026-06-04T08:58:03.805047,GOOGL,GOOGL reports supply chain issues,-0.7664,mock
+2026-06-04T08:58:11.432015,AAPL,AAPL misses revenue forecast,-0.6704,mock
+2026-06-04T08:58:23.814738,AAPL,AAPL expands strategic partnership,0.5307,mock
+2026-06-04T08:58:31.448465,AAPL,AAPL expands strategic partnership,0.5509,mock
+2026-06-04T08:58:43.810001,GOOGL,GOOGL misses revenue forecast,-0.4151,mock
+2026-06-04T08:58:51.464676,GOOGL,GOOGL reports supply chain issues,-0.7853,mock
+2026-06-04T08:59:03.799130,MSFT,MSFT launches high-demand product,0.0883,mock
+2026-06-04T08:59:11.481735,GOOGL,GOOGL faces regulatory pressure,-0.1382,mock
+2026-06-04T08:59:23.799618,GOOGL,GOOGL faces regulatory pressure,-0.1121,mock
+2026-06-04T08:59:31.473683,AAPL,AAPL reports supply chain issues,-0.2007,mock
+2026-06-04T08:59:43.798194,AAPL,AAPL announces strong guidance,0.837,mock
+2026-06-04T08:59:51.478211,AAPL,AAPL launches high-demand product,0.7289,mock
+2026-06-04T09:00:03.823156,GOOGL,GOOGL misses revenue forecast,-0.4603,mock
+2026-06-04T09:00:11.490940,AAPL,AAPL beats earnings estimates,0.1144,mock
+2026-06-04T09:00:23.846014,MSFT,MSFT announces strong guidance,0.8006,mock
+2026-06-04T09:00:31.497620,GOOGL,GOOGL misses revenue forecast,-0.0139,mock
+2026-06-04T09:00:43.862131,MSFT,MSFT announces strong guidance,0.0226,mock
+2026-06-04T09:00:51.508458,AAPL,AAPL announces strong guidance,0.5765,mock
+2026-06-04T09:01:03.883580,AAPL,AAPL misses revenue forecast,-0.7814,mock
+2026-06-04T09:01:11.512551,AAPL,AAPL beats earnings estimates,0.2154,mock
+2026-06-04T09:01:23.884520,GOOGL,GOOGL misses revenue forecast,-0.3611,mock
+2026-06-04T09:01:31.491039,AAPL,AAPL expands strategic partnership,0.2798,mock
+2026-06-04T09:01:43.905029,AAPL,AAPL expands strategic partnership,0.8774,mock
+2026-06-04T09:01:51.513454,GOOGL,GOOGL expands strategic partnership,0.0745,mock
+2026-06-04T09:02:03.911832,AAPL,AAPL announces strong guidance,0.4383,mock
+2026-06-04T09:02:11.512039,AAPL,AAPL launches high-demand product,0.3073,mock
+2026-06-04T09:02:23.920336,GOOGL,GOOGL beats earnings estimates,0.3526,mock
+2026-06-04T09:02:31.526389,MSFT,MSFT launches high-demand product,0.6015,mock
+2026-06-04T09:02:43.933606,MSFT,MSFT misses revenue forecast,-0.1277,mock
+2026-06-04T09:02:51.529889,AAPL,AAPL reports supply chain issues,-0.5667,mock
+2026-06-04T09:03:03.915079,AAPL,AAPL beats earnings estimates,0.9623,mock
+2026-06-04T09:03:11.527729,GOOGL,GOOGL reports supply chain issues,-0.0581,mock
+2026-06-04T09:03:23.913692,MSFT,MSFT beats earnings estimates,0.8923,mock
+2026-06-04T09:03:31.528740,GOOGL,GOOGL announces strong guidance,0.8725,mock
+2026-06-04T09:03:43.925673,GOOGL,GOOGL beats earnings estimates,0.4825,mock
+2026-06-04T09:03:51.533303,AAPL,AAPL launches high-demand product,0.0765,mock
+2026-06-04T09:04:03.933050,MSFT,MSFT launches high-demand product,0.1647,mock
+2026-06-04T09:04:11.532225,GOOGL,GOOGL beats earnings estimates,0.8795,mock
+2026-06-04T09:04:23.940332,GOOGL,GOOGL misses revenue forecast,-0.8273,mock
+2026-06-04T09:04:31.539419,GOOGL,GOOGL announces strong guidance,0.0719,mock
+2026-06-04T09:04:43.950084,GOOGL,GOOGL reports supply chain issues,-0.2364,mock
+2026-06-04T09:04:51.547378,MSFT,MSFT expands strategic partnership,0.8774,mock
+2026-06-04T09:05:03.947319,GOOGL,GOOGL faces regulatory pressure,-0.3467,mock
+2026-06-04T09:05:11.557031,MSFT,MSFT misses revenue forecast,-0.3821,mock
+2026-06-04T09:05:23.953973,GOOGL,GOOGL launches high-demand product,0.9848,mock
+2026-06-04T09:05:31.568259,GOOGL,GOOGL faces regulatory pressure,-0.6001,mock
+2026-06-04T09:05:43.958484,GOOGL,GOOGL reports supply chain issues,-0.1509,mock
+2026-06-04T09:05:51.576695,MSFT,MSFT announces strong guidance,0.6172,mock
+2026-06-04T09:06:03.974724,GOOGL,GOOGL announces strong guidance,0.5982,mock
+2026-06-04T09:06:11.582411,AAPL,AAPL announces strong guidance,0.3809,mock
+2026-06-04T09:06:23.979897,AAPL,AAPL cuts forward guidance,-0.6743,mock
+2026-06-04T09:06:31.599415,MSFT,MSFT misses revenue forecast,-0.7632,mock
+2026-06-04T09:06:43.983127,AAPL,AAPL announces strong guidance,0.5523,mock
+2026-06-04T09:06:51.607201,AAPL,AAPL cuts forward guidance,-0.2667,mock
+2026-06-04T09:07:03.980237,GOOGL,GOOGL cuts forward guidance,-0.1897,mock
+2026-06-04T09:07:11.601916,AAPL,AAPL faces regulatory pressure,-0.1427,mock
+2026-06-04T09:07:23.990277,AAPL,AAPL reports supply chain issues,-0.1669,mock
+2026-06-04T09:07:31.626376,GOOGL,GOOGL faces regulatory pressure,-0.005,mock
+2026-06-04T09:07:43.994668,MSFT,MSFT misses revenue forecast,-0.8343,mock
+2026-06-04T09:07:51.642456,GOOGL,GOOGL announces strong guidance,0.3328,mock
+2026-06-04T09:08:04.010942,MSFT,MSFT reports supply chain issues,-0.6036,mock
+2026-06-04T09:08:11.630928,AAPL,AAPL expands strategic partnership,0.845,mock
+2026-06-04T09:08:24.027703,AAPL,AAPL cuts forward guidance,-0.4889,mock
+2026-06-04T09:08:31.644475,AAPL,AAPL cuts forward guidance,-0.9098,mock
+2026-06-04T09:08:44.030439,MSFT,MSFT faces regulatory pressure,-0.4248,mock
+2026-06-04T09:08:51.662398,MSFT,MSFT announces strong guidance,0.821,mock
+2026-06-04T09:09:04.027810,GOOGL,GOOGL reports supply chain issues,-0.0758,mock
+2026-06-04T09:09:11.685155,AAPL,AAPL launches high-demand product,0.6676,mock
+2026-06-04T09:09:24.037823,AAPL,AAPL reports supply chain issues,-0.1678,mock
+2026-06-04T09:09:31.667487,MSFT,MSFT cuts forward guidance,-0.0574,mock
+2026-06-04T09:09:44.053698,AAPL,AAPL beats earnings estimates,0.811,mock
+2026-06-04T09:09:51.678154,AAPL,AAPL expands strategic partnership,0.2944,mock
+2026-06-04T09:10:04.053883,MSFT,MSFT cuts forward guidance,-0.7109,mock
+2026-06-04T09:10:11.673631,MSFT,MSFT expands strategic partnership,0.2429,mock
+2026-06-04T09:10:24.078412,GOOGL,GOOGL expands strategic partnership,0.1719,mock
+2026-06-04T09:10:31.695453,GOOGL,GOOGL expands strategic partnership,0.2588,mock
+2026-06-04T09:10:44.085424,AAPL,AAPL reports supply chain issues,-0.6954,mock
+2026-06-04T09:10:51.719521,AAPL,AAPL announces strong guidance,0.5998,mock
+2026-06-04T09:11:04.097805,GOOGL,GOOGL expands strategic partnership,0.4661,mock
+2026-06-04T09:11:11.729571,GOOGL,GOOGL launches high-demand product,0.9455,mock
+2026-06-04T09:11:24.111375,MSFT,MSFT faces regulatory pressure,-0.7063,mock
+2026-06-04T09:11:31.743474,MSFT,MSFT expands strategic partnership,0.9891,mock
+2026-06-04T09:11:44.115924,AAPL,AAPL reports supply chain issues,-0.93,mock
+2026-06-04T09:11:51.764400,MSFT,MSFT expands strategic partnership,0.5418,mock
+2026-06-04T09:12:04.134294,MSFT,MSFT announces strong guidance,0.096,mock
+2026-06-04T09:12:11.759451,MSFT,MSFT reports supply chain issues,-0.1268,mock
+2026-06-04T09:12:24.128094,GOOGL,GOOGL launches high-demand product,0.7447,mock
+2026-06-04T09:12:31.760952,GOOGL,GOOGL cuts forward guidance,-0.5606,mock
+2026-06-04T09:12:44.143912,GOOGL,GOOGL announces strong guidance,0.4272,mock
+2026-06-04T09:12:51.761746,AAPL,AAPL beats earnings estimates,0.1537,mock
+2026-06-04T09:13:04.156067,MSFT,MSFT beats earnings estimates,0.3889,mock
+2026-06-04T09:13:11.761360,AAPL,AAPL reports supply chain issues,-0.5558,mock
+2026-06-04T09:13:24.175910,AAPL,AAPL reports supply chain issues,-0.9175,mock
+2026-06-04T09:13:31.779594,AAPL,AAPL beats earnings estimates,0.393,mock
+2026-06-04T09:13:44.176289,MSFT,MSFT beats earnings estimates,0.5352,mock
+2026-06-04T09:13:51.779617,AAPL,AAPL misses revenue forecast,-0.4801,mock
+2026-06-04T09:14:04.192053,AAPL,AAPL reports supply chain issues,-0.4773,mock
+2026-06-04T09:14:11.771367,MSFT,MSFT beats earnings estimates,0.0555,mock
+2026-06-04T09:14:24.197895,GOOGL,GOOGL announces strong guidance,0.3193,mock
+2026-06-04T09:14:31.785967,GOOGL,GOOGL announces strong guidance,0.2485,mock
+2026-06-04T09:14:44.222108,AAPL,AAPL expands strategic partnership,0.3776,mock
+2026-06-04T09:14:51.798226,GOOGL,GOOGL faces regulatory pressure,-0.4087,mock
+2026-06-04T09:15:04.247340,AAPL,AAPL misses revenue forecast,-0.5519,mock
+2026-06-04T09:15:11.815155,GOOGL,GOOGL faces regulatory pressure,-0.5096,mock
+2026-06-04T09:15:24.245994,GOOGL,GOOGL beats earnings estimates,0.142,mock
+2026-06-04T09:15:31.830454,AAPL,AAPL reports supply chain issues,-0.7727,mock
+2026-06-04T09:15:44.253246,MSFT,MSFT misses revenue forecast,-0.4923,mock
+2026-06-04T09:15:51.854520,AAPL,AAPL launches high-demand product,0.5792,mock
+2026-06-04T09:16:04.270563,GOOGL,GOOGL expands strategic partnership,0.3896,mock
+2026-06-04T09:16:11.863099,GOOGL,GOOGL announces strong guidance,0.8836,mock
+2026-06-04T09:16:24.284291,MSFT,MSFT launches high-demand product,0.7527,mock
+2026-06-04T09:16:31.838907,GOOGL,GOOGL cuts forward guidance,-0.1107,mock
+2026-06-04T09:16:44.313802,MSFT,MSFT launches high-demand product,0.022,mock
+2026-06-04T09:16:51.861323,MSFT,MSFT expands strategic partnership,0.8851,mock
+2026-06-04T09:17:04.330379,AAPL,AAPL misses revenue forecast,-0.0355,mock
+2026-06-04T09:17:11.854977,MSFT,MSFT beats earnings estimates,0.5696,mock
+2026-06-04T09:17:24.333076,GOOGL,GOOGL cuts forward guidance,-0.431,mock
+2026-06-04T09:17:31.855367,GOOGL,GOOGL misses revenue forecast,-0.4375,mock
+2026-06-04T09:17:44.360560,GOOGL,GOOGL beats earnings estimates,0.3714,mock
+2026-06-04T09:17:51.865875,MSFT,MSFT expands strategic partnership,0.027,mock
+2026-06-04T09:18:04.362017,AAPL,AAPL cuts forward guidance,-0.7069,mock
