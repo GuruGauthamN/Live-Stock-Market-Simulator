@@ -904,3 +904,17 @@ timestamp,symbol,headline,sentiment,source
 2026-06-04T09:37:44.920196,GOOGL,GOOGL misses revenue forecast,-0.214,mock
 2026-06-04T09:38:04.936832,GOOGL,GOOGL faces regulatory pressure,-0.9778,mock
 2026-06-04T09:38:24.915212,GOOGL,GOOGL beats earnings estimates,0.0473,mock
+2026-06-04T09:38:44.934396,MSFT,MSFT faces regulatory pressure,-0.6225,mock
+2026-06-04T09:39:04.939900,GOOGL,GOOGL reports supply chain issues,-0.689,mock
+2026-06-04T09:39:24.966222,AAPL,AAPL launches high-demand product,0.915,mock
+2026-06-04T09:39:44.972584,MSFT,MSFT beats earnings estimates,0.3702,mock
+2026-06-04T09:40:04.961801,MSFT,MSFT faces regulatory pressure,-0.1286,mock
+2026-06-04T09:40:24.981797,AAPL,AAPL announces strong guidance,0.3649,mock
+2026-06-04T09:40:44.975792,AAPL,AAPL announces strong guidance,0.1654,mock
+2026-06-04T09:41:05.000599,GOOGL,GOOGL faces regulatory pressure,-0.8626,mock
+2026-06-04T09:41:25.005624,GOOGL,GOOGL reports supply chain issues,-0.4674,mock
+2026-06-04T09:41:45.020670,GOOGL,GOOGL launches high-demand product,0.2438,mock
+2026-06-04T09:42:05.044306,AAPL,AAPL reports supply chain issues,-0.7703,mock
+2026-06-04T09:42:25.058734,GOOGL,GOOGL faces regulatory pressure,-0.4357,mock
+2026-06-04T09:42:45.073806,AAPL,AAPL misses revenue forecast,-0.9212,mock
+2026-06-04T09:43:05.067747,AAPL,AAPL reports supply chain issues,-0.6035,mock
